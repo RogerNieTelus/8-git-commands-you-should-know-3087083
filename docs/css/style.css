@@ -7,7 +7,7 @@ html {
 }
 
 .site-nav.in-body {
-  background: rgb(99, 64, 145, 0.9);
+  background: rgb(99, 64, 146, 0.9);
   animation: clear 1.25s forwards;
   opacity: 0;
 }
